@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 VORTEX-SHIELD v4.0
+# 🌌 VORTEX-SHIELD v1.0
 ### *The Ultimate Cyber-Sentinel & Terminal Gatekeeper*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -73,3 +73,11 @@ VORTEX-SHIELD/
 ## 🤝 CONTRIBUTIONS & ETHICS
 
 We follow strict Cyber-Security Standards. Feel free to fork and enhance the sentinel logic, but use it only for ethical system hardening.
+
+## 🔗 CONNECT WITH ME
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karndeepbaror)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karndeepbaror)
+[![Community](https://img.shields.io/badge/Community-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://whatsapp.com/channel/0029Vb6plDSBKfi3qGz2fq0f)
+
+**"In the world of zero-days, I build zero-trust."**
