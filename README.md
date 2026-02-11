@@ -36,8 +36,8 @@ VORTEX-SHIELD acts as a **Deep-Kernel Sentinel** for your terminal. It hooks int
 Ensure you have Python installed, then execute the following commands in your terminal:
 
 ```
-git clone https://github.com/karndeepbaror/votexshield
-cd votexshield
+git clone https://github.com/karndeepbaror/vortexshield
+cd vortexshield
 pip install -r requirements.txt
 bash setup.sh
 ```
