@@ -1,0 +1,8 @@
+.vortex_core_vault/
+SYSTEM_HALTED
+CORE_TERMINATED
+LOCK_PERMANENT
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
