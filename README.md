@@ -42,6 +42,9 @@ git clone [https://github.com/karndeepbaror/votexshield.git
 # Enter the Vault
 cd votexshield
 
+# install requirements
+pip install -r requirements.txt
+
 # Execute the Pro-Installer
 bash setup.sh
 ```
@@ -52,7 +55,6 @@ VORTEX-SHIELD/
 ├── 📁 assets/          # Branding & Visual Identity
 ├── 📁 docs/            # Legal & Security Documentation
 ├── 📁 standards/       # Compliance & Version History
-├── 📁 templates/       # Custom Banners & Alias Configs
 ├── 📄 vortexshield.py  # THE SENTINEL (Main Core)
 ├── 📄 setup.sh         # Auto-Deployment Script
 ├── 📄 LICENSE          # MIT Legal Protection
