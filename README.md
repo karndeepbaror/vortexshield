@@ -37,7 +37,7 @@ Ensure you have Python installed, then execute the following commands in your te
 
 ```
 # Clone the Core Repository
-git clone [https://github.com/karndeepbaror/votexshield.git
+git clone https://github.com/karndeepbaror/votexshield.git
 
 # Enter the Vault
 cd votexshield
